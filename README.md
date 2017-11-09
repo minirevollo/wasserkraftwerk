@@ -1,4 +1,6 @@
-# Wasserkraftwerk - ein Projekt im Rahmen des apokalyptischen Zombiecamps im www.projekt-draussen.com mit dem www.erfindergarden.de #
+# Wasserkraftwerk 
+
+##ein Projekt im Rahmen des apokalyptischen Zombiecamps im projekt-draussen mit dem erfindergarden #
 
 <img src = "IMG/Wasserkraftwerkt.jpg" width = "48%"/><img align = "right" src = "IMG/IMG_20170823_082429.jpg" width = "48%"/>
 
